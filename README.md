@@ -34,4 +34,7 @@ This is simiar to depth first but it uses a queue(first in first out). For my im
 While there is cell to be handled in the set:
 1. Randomly connect to one of the already connected neighbor.
 2. Add all unconnected neighbors to the set"(https://hurna.io/academy/algorithms/maze_generator/prim_s.html)
+
 I used a slight variation of this algorithim to generate the mazes.
+## Contact
+brendencho44@gmail.com
