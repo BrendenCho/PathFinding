@@ -15,7 +15,7 @@ Download the download folder to your computer and double click the run.bat file.
 * One Maze Generating Algorithm
 * Customizable Maze Sizes
 ## Controls
-To place a barrier left click on any square on the scene. To remove a barrier right click on a square. To place many barriers you can hold shift and move your mouse over the squares you want to place a barrier on. You can also remove many barriers by holding ctrl and hovering your mouse over a square. Place the entrance and/or exit by clicking the entranceand\or exit button and left clicking any square on the screen. The clear obstacles button will reset the screen completely. The clear board button will remove any squares placed by the path finding algorithms. To start the finding pick an algorithim from the dropdown box an click run. You can also save an image of your maze by typing in a name for your file and hitting save.
+To place a barrier left click on any square on the scene. To remove a barrier right click on a square. To place many barriers you can hold shift and move your mouse over the squares you want to place a barrier on. You can also remove many barriers by holding ctrl and hovering your mouse over a square. Place the entrance and/or exit by clicking the entrance and\or exit button and left clicking any square on the screen. The clear obstacles button will reset the screen completely. The clear board button will remove any squares placed by the path finding algorithms. To start the finding pick an algorithim from the dropdown box an click run. You can also save an image of your maze by typing in a name for your file and hitting save.
 ## Algorithms 
 ## Dijkstra's algorithm
 Time space: O(ElogV)
